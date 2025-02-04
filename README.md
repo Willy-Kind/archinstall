@@ -1,4 +1,4 @@
-# My Arch install 🛠️
+# My Arch install
 
 An Arch Linux System Tool that automates the setup and configuration of my preferred Arch Linux system with Gnome.
 
